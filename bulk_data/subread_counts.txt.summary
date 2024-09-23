@@ -1,0 +1,13 @@
+Status	NV_controlLung86	NV_controlLung87	NV_controlLung88	NV_controlLung89	NV_fer1Lung2	NV_fer1Lung3	NV_fer1Lung4	NV_fer1Lung10	NV_vehLung1	NV_vehLung2	NV_vehLung3	NV_vehLung4
+Assigned	20126528	20146419	18440256	18415963	12845819	24116826	29615340	78256765	26745442	23933444	15071283	20928598
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Nonjunction	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	2861869	2517315	2383448	2449563	1659866	3176020	3961686	10914180	3996603	3316030	1974202	2740324
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	249166	247467	218731	227836	153713	297247	352360	923415	325912	289950	181994	266018
